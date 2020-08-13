@@ -1,2 +1,2 @@
 # IrisClassification
-Using Softmax Regression algorithm to classify Iris flower 
+Using Softmax Regression algorithm to classify Iris flowers
